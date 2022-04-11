@@ -1,0 +1,97 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "flaticon";
+  src: url("./flaticon.ttf?d9873a0dc3c69083c3b93ef593b0cbbd") format("truetype"), url("./flaticon.woff?d9873a0dc3c69083c3b93ef593b0cbbd") format("woff"), url("./flaticon.woff2?d9873a0dc3c69083c3b93ef593b0cbbd") format("woff2"), url("./flaticon.eot?d9873a0dc3c69083c3b93ef593b0cbbd#iefix") format("embedded-opentype"), url("./flaticon.svg?d9873a0dc3c69083c3b93ef593b0cbbd#flaticon") format("svg");
+}
+i[class^=flaticon-]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-cloud-computing:before {
+  content: "";
+}
+
+.flaticon-paint:before {
+  content: "";
+}
+
+.flaticon-secure-shield:before {
+  content: "";
+}
+
+.flaticon-responsive-design-symbol:before {
+  content: "";
+}
+
+.flaticon-apple:before {
+  content: "";
+}
+
+.flaticon-google-play:before {
+  content: "";
+}
+
+.flaticon-customer-support:before {
+  content: "";
+}
+
+.flaticon-play-button:before {
+  content: "";
+}
+
+.flaticon-left-arrow:before {
+  content: "";
+}
+
+.flaticon-right-arrow:before {
+  content: "";
+}
+
+.flaticon-arrow-point-to-right:before {
+  content: "";
+}
+
+.flaticon-facebook:before {
+  content: "";
+}
+
+.flaticon-instagram:before {
+  content: "";
+}
+
+.flaticon-youtube:before {
+  content: "";
+}
+
+.flaticon-twitter:before {
+  content: "";
+}
+
+.flaticon-play:before {
+  content: "";
+}
+
+.flaticon-calendar:before {
+  content: "";
+}
+
+.flaticon-log-in:before {
+  content: "";
+}
+
+.flaticon-watching-a-movie:before {
+  content: "";
+}
+
+.flaticon-live-streaming:before {
+  content: "";
+}
+
+/*# sourceMappingURL=flaticon.css.map */
